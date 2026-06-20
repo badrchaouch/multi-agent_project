@@ -143,6 +143,6 @@ Potential future enhancements include:
 
 ## Author
 
-**Badr Chaouch** **Bhanu Vignesh Naidu Ganeshna**
+**Badr Chaouch**, **Bhanu Vignesh Naidu Ganeshna**
 Master of Engineering in Intelligent Robotics
 Deggendorf Institute of Technology (DIT), Germany
